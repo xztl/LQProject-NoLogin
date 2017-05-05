@@ -1,0 +1,20 @@
+//
+//  LQProjectPrefixHeader.pch
+//  LQProject
+//
+//  Created by lawchat on 16/7/21.
+//  Copyright © 2016  jacli. All rights reserved.
+//
+
+#ifndef LQProjectPrefixHeader_pch
+#define LQProjectPrefixHeader_pch
+
+#import "AppDefine.h"
+
+#import "AppHeader.h"
+
+#import "CommonDefine.h"
+
+//#import "LQProject-Swift.h"
+
+#endif /* LQProjectPrefixHeader_pch */
